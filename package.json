@@ -1,0 +1,28 @@
+{
+  "name": "@giovanebribeiro/api.boaviagem.xyz-blog",
+  "version": "0.0.0",
+  "description": "Serviço que fornece um blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"to be implemented\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovanebribeiro/api.boaviagem.xyz-blog.git"
+  },
+  "keywords": [
+    "blog",
+    "microservices",
+    "grpc"
+  ],
+  "author": "Giovane Boaviagem <giovane@boaviagem.xyz> (https://giovane.boaviagem.xyz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giovanebribeiro/api.boaviagem.xyz-blog/issues"
+  },
+  "homepage": "https://github.com/giovanebribeiro/api.boaviagem.xyz-blog#readme",
+  "dependencies": {
+    "@giovanebribeiro/api.boaviagem.xyz-contracts": "^0.2.0",
+    "@grpc/grpc-js": "^1.3.7"
+  }
+}
